@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.left{
+    background-color: #f4f4f4;
+    height: 100vh;
+}
+.right{
+    background-color: #ffce74;
+    height: 100vh;
+}
+.usr{
+    width: 25vh;
+}
